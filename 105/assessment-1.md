@@ -1,8 +1,9 @@
  
 1. I think the most important thing I learned other than the peanut Butter and jelly sandwich, is how to use binary. it is the building blocks of the computer its important to know how it works. I can now use binary to represent numbers letters and special character.
-==========================================================================================================================================================================
+
+
 2. Abstractions is programming a function, hiding it away, and calling it with a shorter simpler term to save time. Higher levels of programming have more abstractions so they can focus on doing other things. lower level programming languages have less abstractons and are more time consuming to work with
-=================================================================================================================================================================================
+
 # Pros
  IM sure you can create multiple shortcuts and acclerate the time you need to finish a program
 
