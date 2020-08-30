@@ -3,7 +3,7 @@
 
 2. Abstractions is programming a function, hiding it away, and calling it with a shorter simpler term to save time. Higher levels of programming have more abstractions so they can focus on doing other things. lower level programming languages have less abstractons and are more time consuming to work with
 
-#Pros
+# Pros
 3. IM sure you can create multiple shortcuts and acclerate the time you need to finish a program
 
 in case of error it will still be able to run the program and possibly get the job done
