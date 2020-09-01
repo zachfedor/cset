@@ -1,1 +1,0 @@
-Write your answers to the first week's assessment in this file. If you want to add [Markdown formatting](https://guides.github.com/features/mastering-markdown/), double check it in the Preview tab before submitting.
