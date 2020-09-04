@@ -4,7 +4,7 @@ im determined to find out whats going wrong with my code on my own. I find i nee
 
 
 ### 2.
-do while loops will execute a statment adn tehn checks the conditions, for loop will check if the conditions are correct and then it will execute the statement. 
+do while loops will execute a statment adn then checks the conditions, for loop will check if the conditions are correct and then it will execute the statement. 
  A while loop will keep executing a statement as long as the conditions are true.
 
 
