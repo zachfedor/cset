@@ -18,6 +18,7 @@ with objects you can have multiple varibles with their own values that describe 
 
 
 ## 3.
-i had many ideas but i didnt know how to execute them in a timely manner, but having objects really couldve helped with weapons,
-player inventory,and player characteristics like health stamina mana etc. 
+i had many ideas but i had no idea hwo to go about alot of them i wanted to do be able to take a weapon and put it in the inventory of the player and 
+when you exit the house if you have some of the items on the list you could move to the end scene without dying,  andhaving objects really couldve helped with weapons,
+player inventory,and player characteristics like health stamina mana etc.
 
